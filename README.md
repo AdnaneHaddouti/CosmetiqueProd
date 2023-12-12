@@ -7,6 +7,7 @@ CosmétiqueProd is a modern E-Commerce application developed using Node.js, Stra
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+  
 ## Installation
 
 To get CosmétiqueProd up and running on your local machine, follow these simple steps:
