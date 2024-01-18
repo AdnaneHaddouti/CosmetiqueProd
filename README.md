@@ -1,6 +1,7 @@
 # CosmétiqueProd
 
-CosmétiqueProd is a modern E-Commerce application developed using Node.js, Strapi (Headless CMS), React, and Material-UI. This platform is designed to provide users with a seamless experience in exploring and purchasing a wide range of cosmetic products.
+CosmétiqueProd is a modern E-Commerce application developed using Node.js, Strapi (Headless CMS), React, and Material-UI.
+This platform is designed to provide users with a seamless experience in exploring and purchasing a wide range of cosmetic products.
 
 ## Table of Contents
 - [Installation](#installation)
